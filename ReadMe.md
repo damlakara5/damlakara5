@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm Frontend Developer.<br>🏢 I’m currently working on CenterOnDigital.<br>🌱 I’m currently learning Unit Tests and TypeScript.<br>
+💻 I'm Damla. I'm Frontend Developer. <br>🏢 I’m currently working on CenterOnDigital.<br> 👀 I’m interested in CSS3 ,HTML5, JavaScript, Bootstrap, ReactJS, React.<br>🌱 I’m currently learning Unit Tests and TypeScript.<br> 📩  How to reach me  kdamla41@gmail.com
 
 
 ## 🌐 Socials:
