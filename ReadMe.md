@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm Damla. I'm Frontend Developer. <br>🏢 I’m currently working on CenterOnDigital.<br> 👀 I’m interested in CSS3 ,HTML5,Tailwind CSS, JavaScript, Bootstrap, TypeScript, ReactJS, Redux, Redux Toolkit, React Query.<br>🌱 I’m currently learning Unit Tests and TypeScript.<br> 📩  How to reach me  kdamla41@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damla-kara-348081232) 
+💻 I'm Damla. I'm Frontend Developer. <br>🏢 I’m currently working on CenterOnDigital.<br> 👀 I’m interested in CSS3 ,HTML5,Tailwind CSS, JavaScript, Bootstrap, TypeScript, ReactJS, Redux, Redux Toolkit, React Query.<br>🌱 I’m currently learning Unit Tests and Next.js<br> 📩  How to reach me  kdamla41@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damla-kara-348081232) 
 
 
 ## 🌐 Socials:
